@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="25"
+    android:viewportHeight="25">
+    <!-- 25x25 dot-matrix preview icon for Nothing Phone (3) Glyph Toys manager -->
+    <path
+        android:fillColor="#FF000000"
+        android:pathData="M0,0h25v25h-25z" />
+    <!-- Outer helmet / visor contour in 25x25 pixel coordinates -->
+    <path
+        android:fillColor="#FFFFFFFF"
+        android:pathData="M7,4h11v2h2v4h2v7h-2v3h-3v2h-2v-3h-5v3h-2v-2h-3v-3h-2v-7h2v-4h2v-2zM8,9v4h4v-2h1v2h4v-4h-9zM10,16h5v2h-5z" />
+</vector>

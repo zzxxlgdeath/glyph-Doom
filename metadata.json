@@ -1,0 +1,6 @@
+{
+  "name": "Glyph DOOM",
+  "description": "Классический DOOM (1993, E1M1) для светодиодной матрицы 25x25 Nothing Phone (3) с поддержкой геймпада, клавиатуры и дизеринга яркости.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

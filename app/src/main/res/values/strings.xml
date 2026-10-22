@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Glyph DOOM</string>
+    <string name="toy_name">DOOM 1993 (E1M1)</string>
+    <string name="toy_summary">Классический DOOM E1M1 на матрице 25x25 Glyph Matrix</string>
+    <string name="cd_glyph_matrix">Матрица 25 на 25 светодиодов DOOM E1M1</string>
+    <string name="touch_move_zone">ДВИЖЕНИЕ / СТРЕЙФ</string>
+    <string name="touch_look_fire_zone">ПОВОРОТ / ОГОНЬ</string>
+    <string name="touch_use_zone">ДВЕРЬ / КАРТА</string>
+    <string name="touch_weapon_zone">ОРУЖИЕ</string>
+</resources>
